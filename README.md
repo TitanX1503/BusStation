@@ -1,0 +1,2 @@
+# BusStation
+You have been hired by the government to design and implement a truck management system at a new central station. The station receives trucks from all routes in the city, and they go through an inspection process before continuing on their journeys. Due to the new inspection regulations, trucks are slowly entering one by one, as they arrive at the station. In the same way, they go out one by one, starting with those who arrive earlier.
